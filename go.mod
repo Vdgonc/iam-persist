@@ -1,4 +1,4 @@
-module github.com/vdgonc/iam-persist
+module github.com/VdGonc/iam-persist
 
 go 1.18
 
